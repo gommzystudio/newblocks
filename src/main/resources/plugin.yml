@@ -1,0 +1,5 @@
+name: NewBlocks
+author: Gommzy
+version: 1.0
+main: de.gommzy.newblocks.NewBlocks
+api-version: 1.17
